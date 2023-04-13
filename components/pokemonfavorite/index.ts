@@ -1,2 +1,2 @@
-import * from './FavoriteCardPokemon';
-import * from './FavoritePokemon';
+export * from './FavoriteCardPokemon';
+export * from './FavoritePokemon';

@@ -1,1 +1,1 @@
-import * from './PokemonCard';
+export * from './PokemonCard';
